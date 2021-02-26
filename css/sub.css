@@ -1,0 +1,132 @@
+/* sub.css*/
+
+/* sub_introduction */
+
+#sub_introduction .sub_baneer {
+    width: 1200px;
+    height: 500px;
+}
+
+#sub_introduction .sub_baneer img {
+    position: relative;
+}
+
+#sub_introduction .sub_baneer h1 {
+ position: absolute;
+ width: 1920px;
+ top: 250px; text-align: center;
+ /* border: 2px solid red; */
+ /* top: 200px; left: 800px; */
+ color: #fff;
+ font-size: 50px;
+ text-shadow: 2px 2px 3px rgb(60, 60, 60);
+}
+
+#sub_introduction .sub_baneer .sub_gnb {
+    width: 1920px;
+    position: absolute;
+    /* border: 2px solid red; */
+    top: 450px;
+    text-align: center; 
+    padding-right: 80px;
+    /* top: 450px; left: 700px; */
+}
+
+#sub_introduction .sub_baneer .sub_gnb ul li {
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 80px;
+}
+
+#sub_introduction .sub_baneer .sub_gnb ul li a {
+    color: #fff;
+}
+
+#sub_introduction .sub_baneer .sub_gnb ul li a:hover {
+    border-bottom: 4px solid #4c81bf;
+}
+
+#sub_introduction .sub_baneer .sub_gnb .active {
+    border-bottom: 4px solid #4c81bf;
+}
+
+#sub_introduction .sub_page .sub_page02 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+#sub_introduction .sub_page .sub_page02 img {
+    margin-bottom: 50px;
+}
+
+#sub_introduction .sub_page .sub_page02 p {
+    font-size: 14px;
+}
+#sub_introduction .sub_page .sub_page02 h4 {
+    margin-bottom: 30px;
+    font-weight: 700;
+}
+
+/* 오시는길 */
+
+#sub_directions .sub_baneer img {
+    position: relative;
+    width: 100%; height: 500px;
+    margin: 0 auto;
+    overflow: hidden;
+
+}
+
+#sub_directions .sub_baneer h1 {
+    position: absolute;
+    width: 1920px;
+    top: 250px; text-align: center;
+    /* border: 2px solid red; */
+    /* top: 200px; left: 800px; */
+    color: #fff;
+    font-size: 50px;
+    text-shadow: 2px 2px 3px rgb(60, 60, 60);
+}
+#sub_directions .sub_baneer .sub_gnb {
+    width: 1920px;
+    position: absolute;
+    top: 450px;
+    text-align: center; 
+    padding-right: 80px;
+
+}
+#sub_directions .sub_baneer .sub_gnb ul li {
+    display: inline-block;
+    font-size: 25px;
+    margin-left: 80px;
+
+}
+#sub_directions .sub_baneer .sub_gnb ul li a {
+    color: #fff;
+
+}
+
+#sub_directions .sub_baneer .sub_gnb ul li a:hover {
+    border-bottom: 4px solid #4c81bf;
+}
+
+#sub_directions .sub_baneer .sub_gnb .active {
+    border-bottom: 4px solid #4c81bf;
+}
+
+#sub_directions .sub_page .sub_page02 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 25%;
+}
+
+#sub_directions .sub_page .sub_page02 ul {
+    margin-top: 30px;
+    
+}
+
+#title .container #lnb img {
+    margin-bottom: 100px;
+
+}
